@@ -11,9 +11,15 @@ keyword:技术传播; 结构化写作；资料开发工程师；DITA;
 
 ## 技术传播的定义
 
+<<<<<<< HEAD
 技术传播是一种传达科学、工程或其他技术信息的手段。涉及培训、白皮书、技术规格书等。可能涉及任何技术。主要集中于高科技领域（软件、电力电子、消费电子产品）。
 
-欧洲技术传播协会 (European Association for Technical Communication) 将技术传播解释为：
+=======
+技术传播是一种传达科学、工程或其他技术信息的手段。涉及培训、白皮书、技术规格书等。可能涉及任何技术领域，主要集中于高科技领域（软件、电力电子、消费电子产品）。
+![pic](https://github.com/ffmpegzhou/Tech_Writer/blob/main/Pics/eg1.jpg)
+
+> > > > > > > e2af15f1255346d9966b53e80d264a4aca6e42fa
+> > > > > > > 欧洲技术传播协会 (European Association for Technical Communication) 将技术传播解释为：
 
 > “一个定义、创建和交付信息产品的过程，其目的在于安全、高效、有效地使用产品（技术系统、软件、服务）”。
 
